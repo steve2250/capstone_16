@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101148759378",
+    "project_id": "lip-service-2fd80",
+    "storage_bucket": "lip-service-2fd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101148759378:android:2a1019695a42e9fb48968b",
+        "android_client_info": {
+          "package_name": "com.example.lip_service_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1ttzGogTjqAKE6J-89CtwcyqCpMjJro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101148759378:android:c635bc3de2814f3248968b",
+        "android_client_info": {
+          "package_name": "com.ls.post"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1ttzGogTjqAKE6J-89CtwcyqCpMjJro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
